@@ -1,2 +1,2 @@
-# basic-html-structure
-Bu basit bir HTML sahifasidir
+# basic-html-structur
+simple html projects
